@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <Test name="igor" surname="vlahek"/>
+
+    <Test name="name" surname="surname"/>
+</dataset>
